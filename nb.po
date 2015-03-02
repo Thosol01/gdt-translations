@@ -1818,13 +1818,13 @@ msgid "It seems that the initial sales for {0} have fallen way below expected nu
 msgstr "Det ser ut til at de initielle salgene til {0} har gått langt under forventningene. Spillet fikk {1} kritikk men det ser ut som den valgte platformen ikke er veldig populær med hoved publikumet."
 
 msgid "Sales Report"
-msgstr ""
+msgstr "Salgs rapport"
 
 msgid "The latest game by {0} has had reviewers scratching their heads. Rather than bringing a new and innovative game to market the company delivered another {1}/{2} game which is more or less the same setting as their previous game.{n}One reviewer commented:'I think {3} was simply developed too soon after the previous game with not enough innovations in technology and design.'"
 msgstr ""
 
 msgid "Media Report"
-msgstr ""
+msgstr "Media Rapport"
 
 msgid ""
 "Welcome to your new office!\n"
@@ -1832,7 +1832,7 @@ msgid ""
 msgstr ""
 
 msgid "and"
-msgstr ""
+msgstr "ogg"
 
 msgid ""
 "Welcome to the new headquarters of {0}!\n"
@@ -1919,13 +1919,13 @@ msgid "it's hard to say whether the console will do well as there are so many ot
 msgstr ""
 
 msgid "first"
-msgstr ""
+msgstr "første"
 
 msgid "second"
-msgstr ""
+msgstr "andre"
 
 msgid "third"
-msgstr ""
+msgstr "tredje"
 
 msgid ""
 "{0} has taken their game console {1} off the market.\n"
@@ -1936,10 +1936,10 @@ msgid "The worldwide game developers guild has awarded {0}, CEO of {1} the lifet
 msgstr ""
 
 msgid " They are also known for their console {0} which has done very well on the market."
-msgstr ""
+msgstr "De er også kjent for konsollen deres {0} som har gjort det veldig bra på markedet. "
 
 msgid "Game finished"
-msgstr ""
+msgstr "Spill ferdig"
 
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
@@ -5180,7 +5180,7 @@ msgid "I don't know"
 msgstr ""
 
 msgid "positive"
-msgstr ""
+msgstr "positivt"
 
 msgid "mixed"
 msgstr ""
@@ -5210,7 +5210,7 @@ msgid "Could not load game"
 msgstr ""
 
 msgid "bad"
-msgstr ""
+msgstr "Dårlig"
 
 msgid "Audience match:"
 msgstr ""
@@ -5219,10 +5219,10 @@ msgid "Genre match:"
 msgstr ""
 
 msgid "not important"
-msgstr ""
+msgstr "ikke viktig"
 
 msgid "quite important"
-msgstr ""
+msgstr "ganske viktig"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
@@ -5544,7 +5544,7 @@ msgid " fans"
 msgstr " fans"
 
 msgid "Credits"
-msgstr ""
+msgstr "Rulletekst"
 
 msgid "Hype game!"
 msgstr ""
@@ -5553,7 +5553,7 @@ msgid "Be modest."
 msgstr ""
 
 msgid "Mods"
-msgstr ""
+msgstr "Mods"
 
 msgid "Industry Report"
 msgstr ""
@@ -5571,7 +5571,7 @@ msgid "Enabling and disabling mods requires a restart."
 msgstr ""
 
 msgid "Use mods at your own risk!"
-msgstr ""
+msgstr "Bruk mods på eget ansver!"
 
 msgid "Greenheart Games is not responsible for the contents of mods. Mods may corrupt your save files or do other harm. Use them at your own risk! Since mods can introduce severe bugs or data corruption we cannot offer user support when mods are in use."
 msgstr ""
@@ -5580,10 +5580,10 @@ msgid "patch complete"
 msgstr ""
 
 msgid "Give it away"
-msgstr ""
+msgstr "Gi den bort"
 
 msgid "Sell it"
-msgstr ""
+msgstr "Sell den"
 
 msgid "Refuse"
 msgstr ""
@@ -5598,7 +5598,7 @@ msgid "Make me think!"
 msgstr ""
 
 msgid "Game design for pirates"
-msgstr ""
+msgstr "Spill design for pirater"
 
 msgid "Don't repeat yourself"
 msgstr ""
@@ -5614,7 +5614,7 @@ msgstr ""
 
 #. savegame
 msgid "Cloud"
-msgstr ""
+msgstr "Sky"
 
 #. savegame
 msgid "Local"
@@ -5625,7 +5625,7 @@ msgstr ""
 
 #. localization
 msgid "Moderators"
-msgstr ""
+msgstr "Moderatorer"
 
 #. localization
 msgid "Top Contributors"
@@ -5636,7 +5636,7 @@ msgid "Quality Assurance"
 msgstr ""
 
 msgid "Discuss translation"
-msgstr ""
+msgstr "Diskuter oversettelse"
 
 msgid "Thanks to the many unnamed contributors who greatly helped translating the game!"
 msgstr ""
@@ -5653,22 +5653,22 @@ msgid "done"
 msgstr ""
 
 msgid "{0}K"
-msgstr ""
+msgstr "{0}K"
 
 msgid "{0}M"
-msgstr ""
+msgstr "{0}M"
 
 msgid "{0} %"
-msgstr ""
+msgstr "{0} %"
 
 msgid "Show only new tutorials (recommended)"
-msgstr ""
+msgstr "Vis bare nye veiledninger (anbefalt)"
 
 msgid "Show all tutorials"
-msgstr ""
+msgstr "Vis alle veiledninger"
 
 msgid "Disable tutorials"
-msgstr ""
+msgstr "Skru av veiledninger"
 
 msgid "Quality"
 msgstr "Kvalitet"
@@ -5692,7 +5692,7 @@ msgid "Like this game? Stay informed about new games coming from us by signing u
 msgstr ""
 
 msgid "email address"
-msgstr "email adresse"
+msgstr "e-post adresse"
 
 msgid "Sign up"
 msgstr ""
@@ -5731,94 +5731,94 @@ msgid "This save slot is corrupt, please try restarting your game."
 msgstr ""
 
 msgid "Mods:"
-msgstr ""
+msgstr "Mods"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Vennligst vent..."
 
 msgid "Greenworks requirements missing!"
 msgstr ""
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Steam Workshop"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "Punliser Mod"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Opdater Mod"
 
 msgid "Title*"
-msgstr ""
+msgstr "Tittel"
 
 msgid "Description"
-msgstr ""
+msgstr "Beskrivelse"
 
 msgid "Mod Source Folder*"
 msgstr ""
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Velg Bilde"
 
 msgid "Image Preview"
 msgstr ""
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Idle"
 msgstr ""
 
 msgid "Publish"
-msgstr ""
+msgstr "Publiser"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Dine Mods"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Laster data..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Din Mod mappe"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Velg mappe"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Velg bilde"
 
 msgid "Update"
-msgstr ""
+msgstr "Opdater"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Leser package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "Error. Ugyldig Game Dev Tycoon Mod!"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "Ingen Mods funnet"
 
 msgid "Folder"
-msgstr ""
+msgstr "Mappe"
 
 msgid "Title"
-msgstr ""
+msgstr "Tittel"
 
 msgid "Updating..."
-msgstr ""
+msgstr "Opdaterer..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "Publiserer..."
 
 msgid "Update done"
-msgstr ""
+msgstr "Opdatering ferdig"
 
 msgid "Publish done"
-msgstr ""
+msgstr "Publisering ferdig"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "Error. Missing {0} "
 
 msgid "By submitting this item to Steam, you agree to the"
 msgstr ""
@@ -5827,7 +5827,7 @@ msgid "Steam Workshop terms of service"
 msgstr ""
 
 msgid "Tutorials"
-msgstr "tutorials"
+msgstr "Veiledning"
 
 msgid "Hardware"
 msgstr "maskinvare"

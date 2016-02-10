@@ -3280,7 +3280,7 @@ msgstr ""
 
 #. game topic
 msgid "Werewolf"
-msgstr ""
+msgstr "Varulv"
 
 #. game topic
 msgid "Aliens"
@@ -3288,11 +3288,11 @@ msgstr ""
 
 #. game topic
 msgid "Wild West"
-msgstr ""
+msgstr "Ville Vesten"
 
 #. game topic
 msgid "Dance"
-msgstr ""
+msgstr "Dans"
 
 msgid "Management"
 msgstr ""
@@ -3321,7 +3321,8 @@ msgstr ""
 msgid ""
 "{0} has recently released a much needed patch for {1}.\n"
 "One fan said: 'I love companies like {0}. They don't just milk their customers for more money but also understand our concerns and make sure that we can enjoy our games!'."
-msgstr ""
+msgstr "{0} har akkurat gitt ut en godt etterspurt patch til {1}.\n"
+        "En fan kommenterte: Jeg elsker utviklere som {0}. De melker ikke bare kundene deres for penger, men de lytter også til oss og sørger for at vi kan få glede av spillene våres!. "
 
 msgid "Specialists"
 msgstr ""
